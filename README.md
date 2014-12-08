@@ -33,8 +33,14 @@ Pull requests welcomed!
   - [Automated installation](http://blog.fastmail.com/2014/12/07/automated-installation/)
   - [Squire: FastMail’s rich text editor](http://blog.fastmail.com/2014/12/08/squire-fastmails-rich-text-editor/)
 
-- [Christmas symbols](http://mondaybeginsonsaturday.com/xmas/)
-
+- [Gopher Academy](http://blog.gopheracademy.com/series/advent-2013)
+  - [Probabilistic Data Structures for Go](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/go-probably/)
+  - [Handwritten Parsers & Lexers in Go](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/parsers-lexers/)
+  - [Delve: Go debugger](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/delve/)
+  - [Git2go inception](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/git2go-tutorial/)
+  - [String Matching](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/string-matching/)
+  - [Macaron: Martini-style, but faster and cheaper](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/macaron/)
+  - [Reading config files the Go way](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/reading-config-files-the-go-way/)
 
 ## 2013
 - [24 ways](http://24ways.org/2013)
@@ -88,6 +94,35 @@ Pull requests welcomed!
   - [Dark Sunrise](http://christmasexperiments.com/2013/22/)
   - [Pop crack'art](http://christmasexperiments.com/2013/23/)
   - [Sporel](http://christmasexperiments.com/2013/24/)
+
+- [Gopher Academy](http://blog.gopheracademy.com/series/advent-2013)
+  - [Go Advent Day 1 - Go 1.2 is released](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-01-go-1.2/)
+  - [Go Advent Day 2 - Go 1.2 performance improvements](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-02-go-1.2-performance-improvements/)
+  - [Go Advent Day 3 - Building a Twelve Factor App in Go](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-03-building-a-twelve-factor-app-in-go/)
+  - [Go Advent Day 4 - GoConvey](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-04-goconvey/)
+  - [Go Advent Day 5 - An introduction to beego](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-05-beego/)
+  - [Go Advent Day 6 - Service Discovery with etcd](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-06-service-discovery-with-etcd/)
+  - [Go Advent Day 7 - A Router for GOV.UK](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-07-a-router-for-govuk/)
+  - [Go Advent Day 8 - Doctor Who and the mutant Go compilers](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-08-dr-who-and-the-mutant-go-compilers/)
+  - [Go Advent Day 9 - Building A Weather App In Go](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-09-building-a-weather-app-using-go/)
+  - [Go Advent Day 10 - Beyond Static Binaries](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-10-beyond-static-binaries/)
+  - [Go Advent Day 11 - Build a Christmas List with Martini](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-11-martini/)
+  - [Go Advent Day 12 - Inside the Go Playground](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-12-inside-the-go-playground/)
+  - [Go Advent Day 13 - Go web services with Tiger Tonic](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-13-tiger-tonic/)
+  - [Go Advent Day 14 - gobrew](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-14-gobrew/)
+  - [Go Advent Day 15 - Accelerating ecommerce with Go](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-15-shopping-with-go/)
+  - [Go Advent Day 16 - Coconut: a pure Go blogging engine](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-16-coconut/)
+  - [Go Advent Day 17 - Pond: a New RSS+Atom Syncing Protocol](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-17-pond-a-new-rss-atom-syncing-protocol/)
+  - [Go Advent Day 18 - Go Outside](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-18-go-outside/)
+  - [Go Advent Day 19 - Eject the Web](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-19-eject-the-web/)
+  - [Go Advent Day 20 - Go in Academia: Emulating Wireless Networks](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-20-squirrel/)
+  - [Go Advent Day 21 - Two Factor Authentication in Go](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-21-two-factor-auth/)
+  - [Go Advent Day 22 - A Journey Into NSQ](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-22-a-journey-into-nsq/)
+  - [Go Advent Day 23 - Multi-Platform Applications: Architecture and Cross-Compilation](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-23-multi-platform-applications/)
+  - [Go Advent Stocking Stuffer Bonus - Ginkgo and Gomega: BDD-Style Testing For Go](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/ginkgo/)
+  - [Go Advent Day 24 - Channel Buffering Patterns](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-24-channel-buffering-patterns/)
+  - [Go Advent Day 24.5 - Thank you](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-24-thank-you/)
+  - [Go Advent Day 25 - Announcing GopherCon 2014 Speakers](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2013/day-25-gophercon-announce/)
 
 ## 2012
 - [24 ways](http://24ways.org/2012)
@@ -521,6 +556,7 @@ Pull requests welcomed!
   - [github](http://www.github.com)
 - Other
   - [25 Days of](https://25daysof.io/) - build your own advent list
+  - [Christmas symbols](http://mondaybeginsonsaturday.com/xmas/)
 
 
 ## License
