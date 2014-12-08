@@ -256,7 +256,7 @@ Pull requests welcomed!
   - [Going from One to a Million Users](http://webadvent.org/2012/going-from-one-to-a-million-users-by-jo%C3%ABl-perras)
   - [Debugging Zen](http://webadvent.org/2012/debugging-zen-by-ben-ramsey)
 
-- [Digital Paint](http://advent2012.digitpaint.nl/)
+- [Digitalpaint](http://advent2012.digitpaint.nl/)
   - [All good things yet to come](http://advent2012.digitpaint.nl/24/)
   - [Lock, Stock & Pointer - the PointerLock API](http://advent2012.digitpaint.nl/23/)
   - [Drag 'till you drop!](http://advent2012.digitpaint.nl/22/)
@@ -395,7 +395,7 @@ Pull requests welcomed!
   - [More Than Just Style](http://webadvent.org/2011/more-than-just-style-by-laura-beth-denker)
   - [Because It’s Fun!](http://webadvent.org/2011/because-its-fun-by-derek-sivers)
 
-- [Digital Paint](http://html5advent2011.digitpaint.nl)
+- [Digitalpaint](http://html5advent2011.digitpaint.nl)
   - [Border-width animation fun](http://html5advent2011.digitpaint.nl/1/index.html)
   - [Icons with character](http://html5advent2011.digitpaint.nl/2/index.html)
   - [What happened to my cursor!?](http://html5advent2011.digitpaint.nl/3/index.html)
