@@ -3,6 +3,15 @@ awesome-advent
 
 > A curated list of advent articles
 
+## Why?
+
+Advent lists offer a retrospective of the previous months on a variety of subjects
+and great insights on what you should expect in the future from the best developers and opinion makers.
+
+Also it's a great way to keep track of our industry's evolutions throughout the years.
+
+Pull requests welcomed!
+
 ## 2014
 - [24 ways](http://24ways.org/2014) - grandfather of all advent lists
   - [Websites of Christmas Past, Present and Future](http://24ways.org/2014/websites-of-christmas-past-present-and-future/)
