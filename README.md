@@ -4,7 +4,6 @@ awesome-advent
 > A curated list of advent articles
 
 ## 2014
-
 - [24 ways](http://24ways.org/2014) - grandfather of all advent lists
   - [Websites of Christmas Past, Present and Future](http://24ways.org/2014/websites-of-christmas-past-present-and-future/)
   - [Collaborative Responsive Design Workflows](http://24ways.org/2014/collaborative-responsive-design-workflows/)
@@ -28,5 +27,29 @@ awesome-advent
 - [Christmas symbols](http://mondaybeginsonsaturday.com/xmas/)
 
 
-
-
+## 2013
+- [24 ways](http://24ways.org/2014) - grandfather of all advent lists
+  - [Run Ragged](http://24ways.org/2013/run-ragged/)
+  - [The Command Position Principle](http://24ways.org/2013/the-command-position-principle/)
+  - [Bringing Design and Research Closer   - Together](http://24ways.org/2013/bringing-design-and-research-closer-together/)
+  - [Managing a Mind](http://24ways.org/2013/managing-a-mind/)
+  - [Untangling Web Typography](http://24ways.org/2013/untangling-web-typography/)
+  - [How to Write a Book](http://24ways.org/2013/how-to-write-a-book/)
+  - [Get Started With GitHub Pages (Plus Bonus Jekyll)](http://24ways.org/2013/get-started-with-github-pages/)
+  - [Project Hubs: A Home Base for Design Projects](http://24ways.org/2013/project-hubs/)
+  - [Credits and Recognition](http://24ways.org/2013/credits-and-recognition/)
+  - [In Their Own Write: Web Books and their Authors](http://24ways.org/2013/web-books/)
+  - [Home Kanban for Domestic Bliss](http://24ways.org/2013/home-kanban-for-domestic-bliss/)
+  - [Data-driven Design with an Annual Survey](http://24ways.org/2013/data-driven-design-with-an-annual-survey/)
+  - [The Responsive Hover Paradigm](http://24ways.org/2013/the-responsive-hover-paradigm/)
+  - [Grunt for People Who Think Things Like Grunt are Weird and   - Hard](http://24ways.org/2013/grunt-is-not-weird-and-hard/)
+  - [Why Bother with Accessibility?](http://24ways.org/2013/why-bother-with-accessibility/)
+  - [Keeping Parts of Your Codebase Private on   -   - GitHub](http://24ways.org/2013/keeping-parts-of-your-codebase-private-on-github/)
+  - [Kill It With Fire! What To Do With Those Dreaded FAQs](http://24ways.org/2013/what-to-do-with-faqs/)
+  - [Animating Vectors with SVG](http://24ways.org/2013/animating-vectors-with-svg/)
+  - [Levelling Up](http://24ways.org/2013/levelling-up/)
+  - [JavaScript: Taking Off the Training Wheels](http://24ways.org/2013/javascript-taking-off-the-training-wheels/)
+  - [Git for Grown-ups](http://24ways.org/2013/git-for-grownups/)
+  - [Coding Towards Accessibility](http://24ways.org/2013/coding-towards-accessibility/)
+  - [Make Your Browser Dance](http://24ways.org/2013/make-your-browser-dance/)
+  - [URL Rewriting for the Fearful](http://24ways.org/2013/url-rewriting-for-the-fearful/)
