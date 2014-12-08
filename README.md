@@ -28,7 +28,7 @@ awesome-advent
 
 
 ## 2013
-- [24 ways](http://24ways.org/2014) - grandfather of all advent lists
+- [24 ways](http://24ways.org/2014)
   - [Run Ragged](http://24ways.org/2013/run-ragged/)
   - [The Command Position Principle](http://24ways.org/2013/the-command-position-principle/)
   - [Bringing Design and Research Closer   - Together](http://24ways.org/2013/bringing-design-and-research-closer-together/)
@@ -53,3 +53,34 @@ awesome-advent
   - [Coding Towards Accessibility](http://24ways.org/2013/coding-towards-accessibility/)
   - [Make Your Browser Dance](http://24ways.org/2013/make-your-browser-dance/)
   - [URL Rewriting for the Fearful](http://24ways.org/2013/url-rewriting-for-the-fearful/)
+
+## 2012
+- [24 ways](http://24ways.org/2014)
+  - [Science!](http://24ways.org/2012/science/)
+  - [Monkey Business](http://24ways.org/2012/monkey-business/)
+  - [Unwrapping the Wii U Browser](http://24ways.org/2012/unwrapping-the-wii-u-browser/)
+  - [Infinite Canvas: Moving Beyond the Page](http://24ways.org/2012/infinite-canvas-moving-beyond-the-page/)
+  - [Content Planning Demystified](http://24ways.org/2012/content-planning-demystified/)
+  - [Direction, Distance and Destinations](http://24ways.org/2012/direction-distance-and-destinations/)
+  - [Giving Content Priority with CSS3 Grid Layout](http://24ways.org/2012/css3-grid-layout/)
+  - [Cut Copy Paste](http://24ways.org/2012/cut-copy-paste/)
+  - [How to Make Your Site Look Half-Decent in Half an Hour](http://24ways.org/2012/how-to-make-your-site-look-half-decent/)
+  - [A Harder-Working Class](http://24ways.org/2012/a-harder-working-class/)
+  - [Using Questionnaires for Design Research](http://24ways.org/2012/using-questionnaires-for-design-research/)
+  - [Redesigning the Media Query](http://24ways.org/2012/redesigning-the-media-query/)
+  - [Design Systems](http://24ways.org/2012/design-systems/)
+  - [Responsive Images: What We Thought We Needed](http://24ways.org/2012/responsive-images-what-we-thought-we-needed/)
+  - [Fluent Design through Early Prototyping](http://24ways.org/2012/fluent-design-through-early-prototyping/)
+  - [Should We Be Reactive?](http://24ways.org/2012/should-we-be-reactive/)
+  - [Giving CSS Animations and Transitions Their Place](http://24ways.org/2012/giving-css-animations-and-transitions-their-place/)
+  - [Think First, Code Later](http://24ways.org/2012/think-first-code-later/)
+  - [Flashless Animation](http://24ways.org/2012/flashless-animation/)
+  - [Responsive Responsive Design](http://24ways.org/2012/responsive-responsive-design/)
+  - [Colour Accessibility](http://24ways.org/2012/colour-accessibility/)
+  - [Being Prepared To Contribute](http://24ways.org/2012/being-prepared-to-contribute/)
+  - [Starting Your Project on the Right Foot (and Keeping It There)](http://24ways.org/2012/starting-your-project-on-the-right-foot/)
+  - [HTML5 Video Bumpers](http://24ways.org/2012/html5-video-bumpers/)
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/) This list is public domain, all websites and articles mentioned are copyright of their respective authors.
