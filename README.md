@@ -10,7 +10,7 @@ and great insights on what you should expect in the future from the best develop
 
 Also it's a great way to keep track of our industry's evolutions throughout the years.
 
-Pull requests welcomed!
+Pull requests welcome!
 
 ## 2014
 - [24 ways](http://24ways.org/2014) - grandfather of all advent lists
