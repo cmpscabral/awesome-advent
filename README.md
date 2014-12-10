@@ -14,6 +14,8 @@ Pull requests welcome!
 
 ## 2014
 - [24 ways](http://24ways.org/2014) - grandfather of all advent lists
+  - [Making Sites More Responsive, Responsibly](http://24ways.org/2014/making-sites-more-responsive-responsibly/)
+  - [Responsive Enhancement](http://24ways.org/2014/responsive-enhancement/)
   - [Websites of Christmas Past, Present and Future](http://24ways.org/2014/websites-of-christmas-past-present-and-future/)
   - [Collaborative Responsive Design Workflows](http://24ways.org/2014/collaborative-responsive-design-workflows/)
   - [Don’t Push Through the Pain](http://24ways.org/2014/dont-push-through-the-pain/)
@@ -32,6 +34,8 @@ Pull requests welcome!
   - [User authentication](http://blog.fastmail.com/2014/12/06/user-authentication/)
   - [Automated installation](http://blog.fastmail.com/2014/12/07/automated-installation/)
   - [Squire: FastMail’s rich text editor](http://blog.fastmail.com/2014/12/08/squire-fastmails-rich-text-editor/)
+  - [Email Authentication](http://blog.fastmail.com/2014/12/01/fastmail-advent-2014http://blog.fastmail.com/2014/12/09/email-authentication/)
+  - [Security – Availability](http://blog.fastmail.com/2014/12/01/fastmail-advent-2014http://blog.fastmail.com/2014/12/10/security-availability/)
 
 - [Gopher Academy](http://blog.gopheracademy.com/series/advent-2013)
   - [Probabilistic Data Structures for Go](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/go-probably/)
@@ -41,8 +45,13 @@ Pull requests welcome!
   - [String Matching](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/string-matching/)
   - [Macaron: Martini-style, but faster and cheaper](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/macaron/)
   - [Reading config files the Go way](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/reading-config-files-the-go-way/)
+  - [Nigel's WebDAV package](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/nigels-webdav-package/)
+  - [Easy Docker Deployment with Hooks and Captain Hook](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/easy-deployment/)
 
 - [uxmas](http://uxmas.com/2014)
+  - [How to Overcome Portfolio Creator’s Block](http://uxmas.com/2014/overcoming-portfolio-creators-block)
+  - [Hooked on a Feeling](http://uxmas.com/2014/hooked-on-a-feeling)
+  - [Digital Transgressions](http://uxmas.com/2014/digital-transgressions)
   - [5 Roads to a Great UX Team](http://uxmas.com/2014/5-roads-to-a-great-ux-team)
   - [The Phenomenon of Automagic](http://uxmas.com/2014/the-phenomenon-of-automagic)
   - [If you Think Paper Prototyping is a Waste of Time, you’re Doing it Wrong.](http://uxmas.com/2014/if-you-think-paper-prototyping-is-a-waste-of-time)
@@ -53,6 +62,7 @@ Pull requests welcome!
   - [Santa, the Child, and the Magic of UX](http://uxmas.com/2014/santa-the-child-and-the-magic-of-ux)
 
 - [Performance calendar](http://calendar.perfplanet.com/2014)
+  - [Driving WebPagetest from a Google Docs Spreadsheet](http://calendar.perfplanet.com/2014/driving-webpagetest-from-a-google-docs-spreadsheet/)
   - [The Pain of Duplicate Scripts](http://calendar.perfplanet.com/2014/the-pain-of-duplicate-scripts/)
   - [Boosting I/O Holding Requests](http://calendar.perfplanet.com/2014/boosting-io-holding-requests/)
   - [6 web performance books that every web developer should read](http://calendar.perfplanet.com/2014/6-web-performance-books-that-every-web-developer-should-read/)
@@ -63,6 +73,8 @@ Pull requests welcome!
   - [Automating Web Page Rendering Performance](http://calendar.perfplanet.com/2014/automating-web-page-rendering-performance/)
 
 - [SysAdvent](http://sysadvent.blogspot.pt)
+  - [ Day 10 - DevOps View of Cryptocurrency ](http://sysadvent.blogspot.pt/2014/12/day-10-devops-view-of-cryptocurrency.html)
+  - [ Day 9 - D3 for SysAdmins ](http://sysadvent.blogspot.pt/2014/12/day-9-d3-for-sysadmins.html)
   - [ Day 8 - From Operator to Guide: Lessons Learned Mo... ](http://sysadvent.blogspot.pt/2014/12/day-8-from-operator-to-guide-lessons.html)
   - [ Day 7 - What System Administrators Can Learn From ... ](http://sysadvent.blogspot.pt/2014/12/day-7-what-system-administrators-can.html)
   - [ Day 6 - Debugging for Systems Engineers ](http://sysadvent.blogspot.pt/2014/12/day-6-debugging-for-systems-engineers.html)
