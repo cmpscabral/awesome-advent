@@ -14,6 +14,10 @@ Pull requests welcome!
 
 ## 2014
 - [24 ways](http://24ways.org/2014) - grandfather of all advent lists
+  - [A Holiday Wish](http://24ways.org/2014/a-holiday-wish/)
+  - [Content Production Planning](http://24ways.org/2014/content-production-planning/)
+  - [An Overview of SVG Sprite Creation Techniques](http://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/)
+  - [SEO in 2015 (and Why You Should Care)](http://24ways.org/2014/seo-in-2015-and-why-you-should-care/)
   - [Five Ways to Animate Responsibly](http://24ways.org/2014/five-ways-to-animate-responsibly/)
   - [The Introvert Owner’s Manual](http://24ways.org/2014/the-introvert-owners-manual/)
   - [Is Agile Harder for Agencies?](http://24ways.org/2014/is-agile-harder-for-agencies/)
@@ -44,6 +48,9 @@ Pull requests welcome!
   - [FastMail’s MySQL Replication: Multi-Master, Fault Tollerance, Performance. Pick Any Three](http://blog.fastmail.com/2014/12/01/fastmail-advent-2014http://blog.fastmail.com/2014/12/12/fastmails-mysql-replication/)
   - [FastMail DNS hosting](http://blog.fastmail.com/2014/12/01/fastmail-advent-2014http://blog.fastmail.com/2014/12/13/fastmail-dns-hosting/)
   - [On Duty!](http://blog.fastmail.com/2014/12/01/fastmail-advent-2014http://blog.fastmail.com/2014/12/14/on-duty/)
+  - [Putting the fast in FastMail: Loading your mailbox quickly](http://blog.fastmail.com/2014/12/01/fastmail-advent-2014http://blog.fastmail.com/2014/12/15/dec-15-putting-the-fast-in-fastmail-loading-your-mailbox-quickly/)
+  - [Security – Confidentiality](http://blog.fastmail.com/2014/12/01/fastmail-advent-2014http://blog.fastmail.com/2014/12/15/security-confidentiality/)
+  - [Testing](http://blog.fastmail.com/2014/12/01/fastmail-advent-2014http://blog.fastmail.com/2014/12/17/testing/)
 
 - [Gopher Academy](http://blog.gopheracademy.com/series/advent-2013)
   - [Probabilistic Data Structures for Go](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/go-probably/)
@@ -59,8 +66,16 @@ Pull requests welcome!
   - [Writing file systems in Go with FUSE](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/fuse-zipfs/)
   - [goquery: a little like that j-thing](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/goquery/)
   - [Probabalistic Data Structures for Go: Bloom Filters](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/bloom-filters/)
+  - [Using a JSON File as a Database Safely in Go](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/safe-json-file-db-in-go/)
+  - [The Case Against Third Party Libraries](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/case-against-3pl/)
+  - [Wrapping Git in rc shell](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/wrapping-git/)
+  - [Soy - Programmable templates for Go, Java, JS](http://blog.gopheracademy.com/serieshttp://blog.gopheracademy.com/advent-2014/soy-programmable-templates/)
 
 - [uxmas](http://uxmas.com/2014)
+  - [Is the ‘User’ Always Right?](http://uxmas.com/2014/is-the-user-always-right)
+  - [The 5Ws and 1H of User Interviews](http://uxmas.com/2014/the-5ws-and-1h-of-user-interviews)
+  - [7 Things I Wish Everyone Knew About Interaction Design](http://uxmas.com/2014/7-things-i-wish-everyone-knew-about-interaction-design)
+  - [Designing for Ephemerality: The Rise of Self-Destructive Messaging](http://uxmas.com/2014/designing-for-ephemerality)
   - [Daily Design Confusion](http://uxmas.com/2014/daily-design-confusion)
   - [Mid UXmas Season Tipple—Mexican Hot Chocolate](http://uxmas.com/2014/mid-uxmas-season-tipple)
   - [Towards A Better UX Community](http://uxmas.com/2014/towards-a-better-ux-community)
@@ -77,6 +92,9 @@ Pull requests welcome!
   - [Santa, the Child, and the Magic of UX](http://uxmas.com/2014/santa-the-child-and-the-magic-of-ux)
 
 - [Performance calendar](http://calendar.perfplanet.com/2014)
+  - [Graph your web performance metrics!](http://calendar.perfplanet.com/2014/graph-your-web-performance-metrics/)
+  - [Performance measurements using Chrome DevTools code snippets](http://calendar.perfplanet.com/2014/performance-measurements-using-chrome-devtools-code-snippets/)
+  - [Meet for Speed](http://calendar.perfplanet.com/2014/meet-for-speed/)
   - [Async Fragments: Rediscovering Progressive HTML Rendering with Marko](http://calendar.perfplanet.com/2014/async-fragments-rediscovering-progressive-html-rendering-with-marko/)
   - [WebPagetest Private Instances in Five Minutes](http://calendar.perfplanet.com/2014/webpagetest-private-instances-in-five-minutes/)
   - [Support the old, optimise for the new](http://calendar.perfplanet.com/2014/support-the-old-optimise-for-the-new/)
@@ -92,6 +110,9 @@ Pull requests welcome!
   - [Automating Web Page Rendering Performance](http://calendar.perfplanet.com/2014/automating-web-page-rendering-performance/)
 
 - [SysAdvent](http://sysadvent.blogspot.pt)
+  - [ Day 17 - DevOps for Horses: Moving an Enterprise A... ](http://sysadvent.blogspot.pt/2014/12/day-17-devops-for-horses-moving.html)
+  - [ Day 16 - How to Interview Systems Administrators ](http://sysadvent.blogspot.pt/2014/12/day-16-how-to-interview-systems.html)
+  - [ Day 15 - Cook your own packages: Getting more out ... ](http://sysadvent.blogspot.pt/2014/12/day-15-cook-your-own-packages-getting.html)
   - [ Day 14 - Using Chef Provisioning to Build Chef Ser... ](http://sysadvent.blogspot.pt/2014/12/day-14-using-chef-provisioning-to-build.html)
   - [ Day 13 - Managing Repositories with Pulp ](http://sysadvent.blogspot.pt/2014/12/day-13-managing-repositories-with-pulp.html)
   - [ Day 12 - Ops and Development Teams: Finding a Harm... ](http://sysadvent.blogspot.pt/2014/12/day-12-ops-and-development-teams.html)
